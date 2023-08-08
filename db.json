@@ -1,0 +1,2487 @@
+[
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5491166414195"
+  },
+  {
+    "ref": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "keyword": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "answer": "Su nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8592fa54a385a07b2f1848dd03f2d715",
+    "from": "5491166414195"
+  },
+  {
+    "ref": "91857a03-94ec-4d3e-8e30-c325e3d8b84a",
+    "keyword": "8592fa54a385a07b2f1848dd03f2d715",
+    "answer": "28/8  x la tarde a dominico foto cabina",
+    "options": {},
+    "from": "5491166414195",
+    "refSerialize": "2a522ed09a59f7efa206b1a246624866"
+  },
+  {
+    "ref": "ans_7403dfd4-d3b6-43b2-b26d-ea5123c57322",
+    "keyword": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "answer": "Te agradezco por comunicarte con *Selfie Mirror*\nSi su consulta es por informacion de nuestros servicios solo escriba la palabra: *Alquiler* o *Venta* y obtendra la informacion inmediatamente.\nSi usted es cliente escriba la palabra *Cliente*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [
+        {
+          "ref": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "keyword": [
+            "venta",
+            "vender",
+            "comprar",
+            "compra"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5fcb7e643e362a3fc446cf0578a85e2d"
+        },
+        {
+          "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "answer": "👌 Te envio la info de Venta.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85"
+        },
+        {
+          "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "7eb96049427f5c5a1006ea7298ff45db"
+        },
+        {
+          "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592"
+        },
+        {
+          "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "588d742d2c29696664e393daecd634dd"
+        },
+        {
+          "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "answer": "Equipo Slim Selfie Mirror",
+          "options": {
+            "media": "banner4.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8"
+        },
+        {
+          "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0e6236afb8bb53a14b0624058ac3957b"
+        },
+        {
+          "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192"
+        },
+        {
+          "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "answer": "✈️*Enviamos a todo el Pais.*",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d64e771317cfca47e964bb1600f23602"
+        },
+        {
+          "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "answer": "Espejo Magico",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fbf313f5a5c6301c0769245515795bce"
+        },
+        {
+          "ref": "ans_4c098b02-2c53-47f8-97f1-f066e3abc561",
+          "keyword": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c216828f385190f384766c7b9aa6e1c4"
+        },
+        {
+          "ref": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "keyword": [
+            "alquiler",
+            "alquilar",
+            "cumple",
+            "servicios"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "59db6abbe9f3b786873964675924aa49"
+        },
+        {
+          "ref": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "keyword": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "answer": "Cual es la fecha del  evento?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "85ada7ea75646916192524ad091e098d"
+        },
+        {
+          "ref": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "keyword": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "answer": "👌Te envio la info de alquiler.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 7000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "68df11c33aa5a20f3bd6c987522fca93"
+        },
+        {
+          "ref": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "keyword": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 6000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "82c3e0cf0d8f220b0616c5d325b9283c"
+        },
+        {
+          "ref": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "keyword": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nDiseño elegante: Nuestro espejo mágico tiene un diseño moderno y elegante que se adapta a cualquier tipo de evento.\nSu apariencia sofisticada agrega un toque especial al ambiente.\n\nAccesorios y decoración: Contamos con una variedad de accesorios y elementos decorativos para personalizar aún \nmás la experiencia. Puedes elegir entre diferentes marcos, sombreros, anteojos, pizarras con mensajes divertidos\ny más. Estos elementos permiten que los invitados se diviertan y creen fotos únicas.\n\nTamaño y portabilidad: El espejo mágico tiene dimensiones compactas que facilitan su transporte e instalación en \ndiferentes espacios. Es lo suficientemente versátil como para adaptarse a salones de eventos, fiestas en exteriores \ny otros lugares.\n\nOpciones de software: Nuestro espejo mágico viene con un software propio que ofrece una amplia gama de funciones \ny personalización. Puedes elegir entre diferentes plantillas de diseño, agregar efectos especiales a las fotos y configurar \nopciones de impresión según tus preferencias.\n\nTiempo de alquiler: El tiempo de alquiler del espejo mágico es flexible y se adapta a las necesidades de tu evento.\n Puedes contratarlo por horas o por el tiempo que consideres necesario para brindar una experiencia completa a tus invitados.\n\nRecuerda que nuestros servicios incluyen el montaje, desmontaje y la asistencia de personal capacitado durante todo\nel evento. Estamos comprometidos en asegurar que tus invitados disfruten al máximo de la experiencia con el espejo mágico.\nValor Servicio por 2 Horas $ 50.000 (base)\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "76b2f3cae9b3ec943ba4254f6826919f"
+        },
+        {
+          "ref": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "keyword": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "answer": "Espejo Magico Selfie Mirror",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e5977bd8d5eb18c6ad1d0b7f16dec038"
+        },
+        {
+          "ref": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "keyword": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "answer": "*360 Super Slow.*\n\nEl servicio dura 2 horas. Durante ese tiempo no existe limite de caputras.\nLos videos son filmados y compartidos en el momento ya editados automaticamente\nIncluye accesorios (pelucas, pistola lanza burbujas, cotillon)\nEl valor del servico de 2 horas es de $ 50.000\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a74b18a6551d96c95300a196f5fb3f15"
+        },
+        {
+          "ref": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "keyword": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c5abff702cd3611ce5ea0eeb95a940e5"
+        },
+        {
+          "ref": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "keyword": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "answer": "🔒Los valores se congelan y la fecha se reseva solo al señar el servicio\n🚚El valor no incluye traslados\n🚩*Servicio disponible para todo el pais.* Contamos con representantes en todas las provincias",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "27a1eaec21f0fb22584cfd3930250025"
+        },
+        {
+          "ref": "ans_a7924fee-cec8-4b53-8f42-ca8e71e1aeda",
+          "keyword": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "be7fcea868c940c6197ce3fa34ed589e"
+        },
+        {
+          "ref": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "keyword": [
+            "AGENTE",
+            "Cliente",
+            "Asesor"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "0e0d4959472f558a67457900b165ce61"
+        },
+        {
+          "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "answer": "Localidad?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "942ab05ad2dea80e83f8af1303934250"
+        },
+        {
+          "ref": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "keyword": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "answer": "Continuamos por telefono? En que horario puedo llamar?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0a20818b472414338ab06380a7225ed4"
+        },
+        {
+          "ref": "ans_5f85459d-3b89-463b-95bd-d004641d5e64",
+          "keyword": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "answer": "Buenisimo, A la brevedad me estare comunicando con usted. Tambien puede enviarme a mi numero personal 11-4005-4474. Muchisimas Gracias. Quedo a sus ordenes",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3c3bb6df253c58fec42b5187054f26c6"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "from": "5491166414195"
+  },
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "keyword": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "answer": "Su nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8592fa54a385a07b2f1848dd03f2d715",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "462d6a45-bcf4-4ef7-b00f-398ec181c674",
+    "keyword": "8592fa54a385a07b2f1848dd03f2d715",
+    "answer": "nico",
+    "options": {},
+    "from": "5491140054474",
+    "refSerialize": "a3697fc39000c7fc463b047babce5093"
+  },
+  {
+    "ref": "ans_7403dfd4-d3b6-43b2-b26d-ea5123c57322",
+    "keyword": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "answer": "Te agradezco por comunicarte con *Selfie Mirror*\nSi su consulta es por informacion de nuestros servicios solo escriba la palabra: *Alquiler* o *Venta* y obtendra la informacion inmediatamente.\nSi usted es cliente escriba la palabra *Cliente*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [
+        {
+          "ref": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "keyword": [
+            "venta",
+            "vender",
+            "comprar",
+            "compra"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5fcb7e643e362a3fc446cf0578a85e2d"
+        },
+        {
+          "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "answer": "👌 Te envio la info de Venta.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85"
+        },
+        {
+          "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "7eb96049427f5c5a1006ea7298ff45db"
+        },
+        {
+          "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592"
+        },
+        {
+          "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "588d742d2c29696664e393daecd634dd"
+        },
+        {
+          "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "answer": "Equipo Slim Selfie Mirror",
+          "options": {
+            "media": "banner4.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8"
+        },
+        {
+          "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0e6236afb8bb53a14b0624058ac3957b"
+        },
+        {
+          "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192"
+        },
+        {
+          "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "answer": "✈️*Enviamos a todo el Pais.*",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d64e771317cfca47e964bb1600f23602"
+        },
+        {
+          "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "answer": "Espejo Magico",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fbf313f5a5c6301c0769245515795bce"
+        },
+        {
+          "ref": "ans_4c098b02-2c53-47f8-97f1-f066e3abc561",
+          "keyword": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c216828f385190f384766c7b9aa6e1c4"
+        },
+        {
+          "ref": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "keyword": [
+            "alquiler",
+            "alquilar",
+            "cumple",
+            "servicios"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "59db6abbe9f3b786873964675924aa49"
+        },
+        {
+          "ref": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "keyword": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "answer": "Cual es la fecha del  evento?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "85ada7ea75646916192524ad091e098d"
+        },
+        {
+          "ref": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "keyword": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "answer": "👌Te envio la info de alquiler.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 7000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "68df11c33aa5a20f3bd6c987522fca93"
+        },
+        {
+          "ref": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "keyword": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 6000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "82c3e0cf0d8f220b0616c5d325b9283c"
+        },
+        {
+          "ref": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "keyword": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nDiseño elegante: Nuestro espejo mágico tiene un diseño moderno y elegante que se adapta a cualquier tipo de evento.\nSu apariencia sofisticada agrega un toque especial al ambiente.\n\nAccesorios y decoración: Contamos con una variedad de accesorios y elementos decorativos para personalizar aún \nmás la experiencia. Puedes elegir entre diferentes marcos, sombreros, anteojos, pizarras con mensajes divertidos\ny más. Estos elementos permiten que los invitados se diviertan y creen fotos únicas.\n\nTamaño y portabilidad: El espejo mágico tiene dimensiones compactas que facilitan su transporte e instalación en \ndiferentes espacios. Es lo suficientemente versátil como para adaptarse a salones de eventos, fiestas en exteriores \ny otros lugares.\n\nOpciones de software: Nuestro espejo mágico viene con un software propio que ofrece una amplia gama de funciones \ny personalización. Puedes elegir entre diferentes plantillas de diseño, agregar efectos especiales a las fotos y configurar \nopciones de impresión según tus preferencias.\n\nTiempo de alquiler: El tiempo de alquiler del espejo mágico es flexible y se adapta a las necesidades de tu evento.\n Puedes contratarlo por horas o por el tiempo que consideres necesario para brindar una experiencia completa a tus invitados.\n\nRecuerda que nuestros servicios incluyen el montaje, desmontaje y la asistencia de personal capacitado durante todo\nel evento. Estamos comprometidos en asegurar que tus invitados disfruten al máximo de la experiencia con el espejo mágico.\nValor Servicio por 2 Horas $ 50.000 (base)\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "76b2f3cae9b3ec943ba4254f6826919f"
+        },
+        {
+          "ref": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "keyword": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "answer": "Espejo Magico Selfie Mirror",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e5977bd8d5eb18c6ad1d0b7f16dec038"
+        },
+        {
+          "ref": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "keyword": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "answer": "*360 Super Slow.*\n\nEl servicio dura 2 horas. Durante ese tiempo no existe limite de caputras.\nLos videos son filmados y compartidos en el momento ya editados automaticamente\nIncluye accesorios (pelucas, pistola lanza burbujas, cotillon)\nEl valor del servico de 2 horas es de $ 50.000\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a74b18a6551d96c95300a196f5fb3f15"
+        },
+        {
+          "ref": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "keyword": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c5abff702cd3611ce5ea0eeb95a940e5"
+        },
+        {
+          "ref": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "keyword": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "answer": "🔒Los valores se congelan y la fecha se reseva solo al señar el servicio\n🚚El valor no incluye traslados\n🚩*Servicio disponible para todo el pais.* Contamos con representantes en todas las provincias",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "27a1eaec21f0fb22584cfd3930250025"
+        },
+        {
+          "ref": "ans_a7924fee-cec8-4b53-8f42-ca8e71e1aeda",
+          "keyword": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "be7fcea868c940c6197ce3fa34ed589e"
+        },
+        {
+          "ref": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "keyword": [
+            "AGENTE",
+            "Cliente",
+            "Asesor"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "0e0d4959472f558a67457900b165ce61"
+        },
+        {
+          "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "answer": "Localidad?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "942ab05ad2dea80e83f8af1303934250"
+        },
+        {
+          "ref": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "keyword": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "answer": "Continuamos por telefono? En que horario puedo llamar?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0a20818b472414338ab06380a7225ed4"
+        },
+        {
+          "ref": "ans_5f85459d-3b89-463b-95bd-d004641d5e64",
+          "keyword": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "answer": "Buenisimo, A la brevedad me estare comunicando con usted. Tambien puede enviarme a mi numero personal 11-4005-4474. Muchisimas Gracias. Quedo a sus ordenes",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3c3bb6df253c58fec42b5187054f26c6"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "eef7669e-f8ac-47e7-9355-c2de9b0331f8",
+    "keyword": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "answer": "comprar",
+    "options": {},
+    "from": "5491140054474",
+    "refSerialize": "383e130d34da0ee7bac021641b28c03f"
+  },
+  {
+    "ref": "ans_7403dfd4-d3b6-43b2-b26d-ea5123c57322",
+    "keyword": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "answer": "Por favor solo escriba la palabra. *Alquiler*, *Venta* o *Cliente* en caso de ya formar parte de Selfie Mirror",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [
+        {
+          "ref": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "keyword": [
+            "venta",
+            "vender",
+            "comprar",
+            "compra"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5fcb7e643e362a3fc446cf0578a85e2d"
+        },
+        {
+          "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "answer": "👌 Te envio la info de Venta.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85"
+        },
+        {
+          "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "7eb96049427f5c5a1006ea7298ff45db"
+        },
+        {
+          "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592"
+        },
+        {
+          "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "588d742d2c29696664e393daecd634dd"
+        },
+        {
+          "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "answer": "Equipo Slim Selfie Mirror",
+          "options": {
+            "media": "banner4.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8"
+        },
+        {
+          "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0e6236afb8bb53a14b0624058ac3957b"
+        },
+        {
+          "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192"
+        },
+        {
+          "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "answer": "✈️*Enviamos a todo el Pais.*",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d64e771317cfca47e964bb1600f23602"
+        },
+        {
+          "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "answer": "Espejo Magico",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fbf313f5a5c6301c0769245515795bce"
+        },
+        {
+          "ref": "ans_4c098b02-2c53-47f8-97f1-f066e3abc561",
+          "keyword": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c216828f385190f384766c7b9aa6e1c4"
+        },
+        {
+          "ref": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "keyword": [
+            "alquiler",
+            "alquilar",
+            "cumple",
+            "servicios"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "59db6abbe9f3b786873964675924aa49"
+        },
+        {
+          "ref": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "keyword": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "answer": "Cual es la fecha del  evento?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "85ada7ea75646916192524ad091e098d"
+        },
+        {
+          "ref": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "keyword": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "answer": "👌Te envio la info de alquiler.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 7000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "68df11c33aa5a20f3bd6c987522fca93"
+        },
+        {
+          "ref": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "keyword": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 6000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "82c3e0cf0d8f220b0616c5d325b9283c"
+        },
+        {
+          "ref": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "keyword": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nDiseño elegante: Nuestro espejo mágico tiene un diseño moderno y elegante que se adapta a cualquier tipo de evento.\nSu apariencia sofisticada agrega un toque especial al ambiente.\n\nAccesorios y decoración: Contamos con una variedad de accesorios y elementos decorativos para personalizar aún \nmás la experiencia. Puedes elegir entre diferentes marcos, sombreros, anteojos, pizarras con mensajes divertidos\ny más. Estos elementos permiten que los invitados se diviertan y creen fotos únicas.\n\nTamaño y portabilidad: El espejo mágico tiene dimensiones compactas que facilitan su transporte e instalación en \ndiferentes espacios. Es lo suficientemente versátil como para adaptarse a salones de eventos, fiestas en exteriores \ny otros lugares.\n\nOpciones de software: Nuestro espejo mágico viene con un software propio que ofrece una amplia gama de funciones \ny personalización. Puedes elegir entre diferentes plantillas de diseño, agregar efectos especiales a las fotos y configurar \nopciones de impresión según tus preferencias.\n\nTiempo de alquiler: El tiempo de alquiler del espejo mágico es flexible y se adapta a las necesidades de tu evento.\n Puedes contratarlo por horas o por el tiempo que consideres necesario para brindar una experiencia completa a tus invitados.\n\nRecuerda que nuestros servicios incluyen el montaje, desmontaje y la asistencia de personal capacitado durante todo\nel evento. Estamos comprometidos en asegurar que tus invitados disfruten al máximo de la experiencia con el espejo mágico.\nValor Servicio por 2 Horas $ 50.000 (base)\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "76b2f3cae9b3ec943ba4254f6826919f"
+        },
+        {
+          "ref": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "keyword": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "answer": "Espejo Magico Selfie Mirror",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e5977bd8d5eb18c6ad1d0b7f16dec038"
+        },
+        {
+          "ref": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "keyword": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "answer": "*360 Super Slow.*\n\nEl servicio dura 2 horas. Durante ese tiempo no existe limite de caputras.\nLos videos son filmados y compartidos en el momento ya editados automaticamente\nIncluye accesorios (pelucas, pistola lanza burbujas, cotillon)\nEl valor del servico de 2 horas es de $ 50.000\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a74b18a6551d96c95300a196f5fb3f15"
+        },
+        {
+          "ref": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "keyword": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c5abff702cd3611ce5ea0eeb95a940e5"
+        },
+        {
+          "ref": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "keyword": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "answer": "🔒Los valores se congelan y la fecha se reseva solo al señar el servicio\n🚚El valor no incluye traslados\n🚩*Servicio disponible para todo el pais.* Contamos con representantes en todas las provincias",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "27a1eaec21f0fb22584cfd3930250025"
+        },
+        {
+          "ref": "ans_a7924fee-cec8-4b53-8f42-ca8e71e1aeda",
+          "keyword": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "be7fcea868c940c6197ce3fa34ed589e"
+        },
+        {
+          "ref": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "keyword": [
+            "AGENTE",
+            "Cliente",
+            "Asesor"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "0e0d4959472f558a67457900b165ce61"
+        },
+        {
+          "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "answer": "Localidad?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "942ab05ad2dea80e83f8af1303934250"
+        },
+        {
+          "ref": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "keyword": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "answer": "Continuamos por telefono? En que horario puedo llamar?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0a20818b472414338ab06380a7225ed4"
+        },
+        {
+          "ref": "ans_5f85459d-3b89-463b-95bd-d004641d5e64",
+          "keyword": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "answer": "Buenisimo, A la brevedad me estare comunicando con usted. Tambien puede enviarme a mi numero personal 11-4005-4474. Muchisimas Gracias. Quedo a sus ordenes",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3c3bb6df253c58fec42b5187054f26c6"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+    "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+    "answer": "👌 Te envio la info de Venta.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+    "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+    "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "7eb96049427f5c5a1006ea7298ff45db",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+    "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+    "answer": "Plataforma 360 Super Slow",
+    "options": {
+      "media": "banner.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+    "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+    "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "588d742d2c29696664e393daecd634dd",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+    "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+    "answer": "Equipo Slim Selfie Mirror",
+    "options": {
+      "media": "banner4.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+    "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+    "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0e6236afb8bb53a14b0624058ac3957b",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+    "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+    "answer": "Selfie Mirror",
+    "options": {
+      "media": "banner22.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+    "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+    "answer": "✈️*Enviamos a todo el Pais.*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d64e771317cfca47e964bb1600f23602",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+    "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+    "answer": "Espejo Magico",
+    "options": {
+      "media": "banner3.jpg",
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "fbf313f5a5c6301c0769245515795bce",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+    "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+    "answer": "Localidad?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "2c2b93438586f08661333ad575acf08f",
+    "from": "5491140054474"
+  },
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5491134592933"
+  },
+  {
+    "ref": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "keyword": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "answer": "Su nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8592fa54a385a07b2f1848dd03f2d715",
+    "from": "5491134592933"
+  },
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "keyword": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "answer": "Su nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8592fa54a385a07b2f1848dd03f2d715",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "13fcc6fa-093c-4528-b9fd-b845dfad2105",
+    "keyword": "8592fa54a385a07b2f1848dd03f2d715",
+    "answer": "Plataforma 360",
+    "options": {},
+    "from": "5493725479668",
+    "refSerialize": "ac67d0273903a6bf686030885043d911"
+  },
+  {
+    "ref": "94dee91d-abc3-4b62-92b4-0d8c782ccc42",
+    "keyword": "ac67d0273903a6bf686030885043d911",
+    "answer": "Diego",
+    "options": {},
+    "from": "5493725479668",
+    "refSerialize": "f565ba3dd93f9e557a5c80d434a36401"
+  },
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "ans_7403dfd4-d3b6-43b2-b26d-ea5123c57322",
+    "keyword": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "answer": "Te agradezco por comunicarte con *Selfie Mirror*\nSi su consulta es por informacion de nuestros servicios solo escriba la palabra: *Alquiler* o *Venta* y obtendra la informacion inmediatamente.\nSi usted es cliente escriba la palabra *Cliente*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [
+        {
+          "ref": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "keyword": [
+            "venta",
+            "vender",
+            "comprar",
+            "compra"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5fcb7e643e362a3fc446cf0578a85e2d"
+        },
+        {
+          "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "answer": "👌 Te envio la info de Venta.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85"
+        },
+        {
+          "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "7eb96049427f5c5a1006ea7298ff45db"
+        },
+        {
+          "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592"
+        },
+        {
+          "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "588d742d2c29696664e393daecd634dd"
+        },
+        {
+          "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "answer": "Equipo Slim Selfie Mirror",
+          "options": {
+            "media": "banner4.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8"
+        },
+        {
+          "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0e6236afb8bb53a14b0624058ac3957b"
+        },
+        {
+          "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192"
+        },
+        {
+          "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "answer": "✈️*Enviamos a todo el Pais.*",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d64e771317cfca47e964bb1600f23602"
+        },
+        {
+          "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "answer": "Espejo Magico",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fbf313f5a5c6301c0769245515795bce"
+        },
+        {
+          "ref": "ans_4c098b02-2c53-47f8-97f1-f066e3abc561",
+          "keyword": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c216828f385190f384766c7b9aa6e1c4"
+        },
+        {
+          "ref": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "keyword": [
+            "alquiler",
+            "alquilar",
+            "cumple",
+            "servicios"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "59db6abbe9f3b786873964675924aa49"
+        },
+        {
+          "ref": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "keyword": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "answer": "Cual es la fecha del  evento?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "85ada7ea75646916192524ad091e098d"
+        },
+        {
+          "ref": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "keyword": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "answer": "👌Te envio la info de alquiler.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 7000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "68df11c33aa5a20f3bd6c987522fca93"
+        },
+        {
+          "ref": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "keyword": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 6000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "82c3e0cf0d8f220b0616c5d325b9283c"
+        },
+        {
+          "ref": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "keyword": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nDiseño elegante: Nuestro espejo mágico tiene un diseño moderno y elegante que se adapta a cualquier tipo de evento.\nSu apariencia sofisticada agrega un toque especial al ambiente.\n\nAccesorios y decoración: Contamos con una variedad de accesorios y elementos decorativos para personalizar aún \nmás la experiencia. Puedes elegir entre diferentes marcos, sombreros, anteojos, pizarras con mensajes divertidos\ny más. Estos elementos permiten que los invitados se diviertan y creen fotos únicas.\n\nTamaño y portabilidad: El espejo mágico tiene dimensiones compactas que facilitan su transporte e instalación en \ndiferentes espacios. Es lo suficientemente versátil como para adaptarse a salones de eventos, fiestas en exteriores \ny otros lugares.\n\nOpciones de software: Nuestro espejo mágico viene con un software propio que ofrece una amplia gama de funciones \ny personalización. Puedes elegir entre diferentes plantillas de diseño, agregar efectos especiales a las fotos y configurar \nopciones de impresión según tus preferencias.\n\nTiempo de alquiler: El tiempo de alquiler del espejo mágico es flexible y se adapta a las necesidades de tu evento.\n Puedes contratarlo por horas o por el tiempo que consideres necesario para brindar una experiencia completa a tus invitados.\n\nRecuerda que nuestros servicios incluyen el montaje, desmontaje y la asistencia de personal capacitado durante todo\nel evento. Estamos comprometidos en asegurar que tus invitados disfruten al máximo de la experiencia con el espejo mágico.\nValor Servicio por 2 Horas $ 50.000 (base)\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "76b2f3cae9b3ec943ba4254f6826919f"
+        },
+        {
+          "ref": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "keyword": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "answer": "Espejo Magico Selfie Mirror",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e5977bd8d5eb18c6ad1d0b7f16dec038"
+        },
+        {
+          "ref": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "keyword": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "answer": "*360 Super Slow.*\n\nEl servicio dura 2 horas. Durante ese tiempo no existe limite de caputras.\nLos videos son filmados y compartidos en el momento ya editados automaticamente\nIncluye accesorios (pelucas, pistola lanza burbujas, cotillon)\nEl valor del servico de 2 horas es de $ 50.000\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a74b18a6551d96c95300a196f5fb3f15"
+        },
+        {
+          "ref": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "keyword": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c5abff702cd3611ce5ea0eeb95a940e5"
+        },
+        {
+          "ref": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "keyword": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "answer": "🔒Los valores se congelan y la fecha se reseva solo al señar el servicio\n🚚El valor no incluye traslados\n🚩*Servicio disponible para todo el pais.* Contamos con representantes en todas las provincias",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "27a1eaec21f0fb22584cfd3930250025"
+        },
+        {
+          "ref": "ans_a7924fee-cec8-4b53-8f42-ca8e71e1aeda",
+          "keyword": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "be7fcea868c940c6197ce3fa34ed589e"
+        },
+        {
+          "ref": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "keyword": [
+            "AGENTE",
+            "Cliente",
+            "Asesor"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "0e0d4959472f558a67457900b165ce61"
+        },
+        {
+          "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "answer": "Localidad?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "942ab05ad2dea80e83f8af1303934250"
+        },
+        {
+          "ref": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "keyword": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "answer": "Continuamos por telefono? En que horario puedo llamar?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0a20818b472414338ab06380a7225ed4"
+        },
+        {
+          "ref": "ans_5f85459d-3b89-463b-95bd-d004641d5e64",
+          "keyword": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "answer": "Buenisimo, A la brevedad me estare comunicando con usted. Tambien puede enviarme a mi numero personal 11-4005-4474. Muchisimas Gracias. Quedo a sus ordenes",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3c3bb6df253c58fec42b5187054f26c6"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "keyword": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "answer": "Su nombre?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8592fa54a385a07b2f1848dd03f2d715",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "3c5c366d-3608-4c2d-b1a6-dcf1b5d28daf",
+    "keyword": "8592fa54a385a07b2f1848dd03f2d715",
+    "answer": "Venta",
+    "options": {},
+    "from": "5493725479668",
+    "refSerialize": "e03b658a0b194e6adbf505be517790f3"
+  },
+  {
+    "ref": "fbca47a5-79d9-47f4-9207-e59bf97452ad",
+    "keyword": "e03b658a0b194e6adbf505be517790f3",
+    "answer": "Diego",
+    "options": {},
+    "from": "5493725479668",
+    "refSerialize": "f565ba3dd93f9e557a5c80d434a36401"
+  },
+  {
+    "ref": "ans_cee134f6-e5c5-4587-956f-5a339a1b5026",
+    "keyword": "key_2665c1ca-3996-4e97-8e4d-411773ed7480",
+    "answer": "Hola, Mi nombre es Nicolas de Selfie Mirror, espero poder asesorarle en todo lo que necesite.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b5fe1deeff6246b396c832a094b84fee",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "ans_7403dfd4-d3b6-43b2-b26d-ea5123c57322",
+    "keyword": "ans_e088cd3b-182c-45b3-8590-cdbd0b717f9d",
+    "answer": "Te agradezco por comunicarte con *Selfie Mirror*\nSi su consulta es por informacion de nuestros servicios solo escriba la palabra: *Alquiler* o *Venta* y obtendra la informacion inmediatamente.\nSi usted es cliente escriba la palabra *Cliente*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 5000,
+      "nested": [
+        {
+          "ref": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "keyword": [
+            "venta",
+            "vender",
+            "comprar",
+            "compra"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5fcb7e643e362a3fc446cf0578a85e2d"
+        },
+        {
+          "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+          "answer": "👌 Te envio la info de Venta.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "23926bbcd3b26d9c2b0336980c48ea85"
+        },
+        {
+          "ref": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "keyword": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nEl Espejo Mágico de Selfie Mirror cuenta con una cámara web de alta calidad, vidrio templado resistente, una Mini PC y un\ntelevisor LED de 32 pulgadas. Estas características garantizan una experiencia de alta definición para capturar momentos\n especiales.\n\nSu diseño compacto y portátil, con dimensiones de 126 cm de alto x 70 cm de ancho y 20 cm de profundidad en el modelo\n Slim, permite transportarlo fácilmente en cualquier vehículo. Esto brinda una gran versatilidad y conveniencia para eventos \ny fiestas.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "7eb96049427f5c5a1006ea7298ff45db"
+        },
+        {
+          "ref": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "keyword": "ans_923b52ca-acde-4127-8d5d-64f133d3bf46",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0bcf48d15c8787b42c6d9e9fb209e592"
+        },
+        {
+          "ref": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "keyword": "ans_e7e4ce67-744b-457e-bf86-8b34bb864dcf",
+          "answer": "La facilidad de uso es una de las ventajas clave del Espejo Mágico. Simplemente tienes que enchufarlo y presionar el \nbotón de encendido para que empiece a funcionar. Esto agiliza la instalación y permite que los eventos comiencen rápidamente.\n\nEs importante mencionar que el Selfie Mirror no incluye una impresora, pero está preparado para funcionar con cualquier \nimpresora que se adapte a las necesidades del cliente. Esto brinda flexibilidad para elegir la impresora que mejor se ajuste a\nlos requerimientos de impresión.\n\nEn cuanto al precio, el valor del equipo es de 1500 dólares o pesos al valor del dólar blue del día de la seña. Esto \npuede ser una ventaja para los clientes que deseen aprovechar las condiciones del mercado al momento de adquirir el Espejo\nMágico.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "588d742d2c29696664e393daecd634dd"
+        },
+        {
+          "ref": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "keyword": "ans_53b4ef04-17a9-439f-b781-2dac6472e9ec",
+          "answer": "Equipo Slim Selfie Mirror",
+          "options": {
+            "media": "banner4.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "83b6170be464b69e42fc9355cf7bc3d8"
+        },
+        {
+          "ref": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "keyword": "ans_be2fbad9-8f4e-4d80-a26e-563f5971fa3d",
+          "answer": "*Plataforma 360 Super Slow*\n\nLa plataforma incluye motor, control remoto, variador de velocidad, soporte para celular o Gopro y Aro de Led\nEl Valor en 70 o 90 cm es de $170.000\nEl valor en 110 cm es de $200.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "0e6236afb8bb53a14b0624058ac3957b"
+        },
+        {
+          "ref": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "keyword": "ans_909aed51-6181-4454-aff4-887d28b8e87b",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac730080c9f2c4d6d01b2a78d48d6192"
+        },
+        {
+          "ref": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "keyword": "ans_9ed26379-5363-4eb9-bb12-147a8f6c6eed",
+          "answer": "✈️*Enviamos a todo el Pais.*",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d64e771317cfca47e964bb1600f23602"
+        },
+        {
+          "ref": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "keyword": "ans_77afe07f-3ddd-4f77-865c-3f27b1443521",
+          "answer": "Espejo Magico",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "fbf313f5a5c6301c0769245515795bce"
+        },
+        {
+          "ref": "ans_4c098b02-2c53-47f8-97f1-f066e3abc561",
+          "keyword": "ans_4f69dc4a-ee7b-490c-ba53-95268acedc06",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c216828f385190f384766c7b9aa6e1c4"
+        },
+        {
+          "ref": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "keyword": [
+            "alquiler",
+            "alquilar",
+            "cumple",
+            "servicios"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "59db6abbe9f3b786873964675924aa49"
+        },
+        {
+          "ref": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "keyword": "key_8ca7a47b-91e6-4f60-b9c4-3ebe4479ee01",
+          "answer": "Cual es la fecha del  evento?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "85ada7ea75646916192524ad091e098d"
+        },
+        {
+          "ref": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "keyword": "ans_3947a223-47c3-4260-afba-c70efe9c1795",
+          "answer": "👌Te envio la info de alquiler.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 7000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "68df11c33aa5a20f3bd6c987522fca93"
+        },
+        {
+          "ref": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "keyword": "ans_8ef90cab-7955-4df5-ac34-8972fa0ddb68",
+          "answer": "Selfie Mirror",
+          "options": {
+            "media": "banner22.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 6000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "82c3e0cf0d8f220b0616c5d325b9283c"
+        },
+        {
+          "ref": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "keyword": "ans_40a1c0c3-1d60-48d3-9cd7-e1707cb44976",
+          "answer": "*Espejo Magico Selfie Mirror*\n\nDiseño elegante: Nuestro espejo mágico tiene un diseño moderno y elegante que se adapta a cualquier tipo de evento.\nSu apariencia sofisticada agrega un toque especial al ambiente.\n\nAccesorios y decoración: Contamos con una variedad de accesorios y elementos decorativos para personalizar aún \nmás la experiencia. Puedes elegir entre diferentes marcos, sombreros, anteojos, pizarras con mensajes divertidos\ny más. Estos elementos permiten que los invitados se diviertan y creen fotos únicas.\n\nTamaño y portabilidad: El espejo mágico tiene dimensiones compactas que facilitan su transporte e instalación en \ndiferentes espacios. Es lo suficientemente versátil como para adaptarse a salones de eventos, fiestas en exteriores \ny otros lugares.\n\nOpciones de software: Nuestro espejo mágico viene con un software propio que ofrece una amplia gama de funciones \ny personalización. Puedes elegir entre diferentes plantillas de diseño, agregar efectos especiales a las fotos y configurar \nopciones de impresión según tus preferencias.\n\nTiempo de alquiler: El tiempo de alquiler del espejo mágico es flexible y se adapta a las necesidades de tu evento.\n Puedes contratarlo por horas o por el tiempo que consideres necesario para brindar una experiencia completa a tus invitados.\n\nRecuerda que nuestros servicios incluyen el montaje, desmontaje y la asistencia de personal capacitado durante todo\nel evento. Estamos comprometidos en asegurar que tus invitados disfruten al máximo de la experiencia con el espejo mágico.\nValor Servicio por 2 Horas $ 50.000 (base)\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "76b2f3cae9b3ec943ba4254f6826919f"
+        },
+        {
+          "ref": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "keyword": "ans_fa21faa1-025d-4505-82c7-b8a63d7053b6",
+          "answer": "Espejo Magico Selfie Mirror",
+          "options": {
+            "media": "banner3.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 10000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e5977bd8d5eb18c6ad1d0b7f16dec038"
+        },
+        {
+          "ref": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "keyword": "ans_28ed6196-9d4b-4ed7-b096-ae87e5298c58",
+          "answer": "*360 Super Slow.*\n\nEl servicio dura 2 horas. Durante ese tiempo no existe limite de caputras.\nLos videos son filmados y compartidos en el momento ya editados automaticamente\nIncluye accesorios (pelucas, pistola lanza burbujas, cotillon)\nEl valor del servico de 2 horas es de $ 50.000\nEl valor de la Hora adicional es de $ 25.000",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "a74b18a6551d96c95300a196f5fb3f15"
+        },
+        {
+          "ref": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "keyword": "ans_5cde9b9a-89d3-43df-83a8-1d6538f93544",
+          "answer": "Plataforma 360 Super Slow",
+          "options": {
+            "media": "banner.jpg",
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "c5abff702cd3611ce5ea0eeb95a940e5"
+        },
+        {
+          "ref": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "keyword": "ans_3cd1c1d6-530b-474e-be4b-308ae9a2e775",
+          "answer": "🔒Los valores se congelan y la fecha se reseva solo al señar el servicio\n🚚El valor no incluye traslados\n🚩*Servicio disponible para todo el pais.* Contamos con representantes en todas las provincias",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "27a1eaec21f0fb22584cfd3930250025"
+        },
+        {
+          "ref": "ans_a7924fee-cec8-4b53-8f42-ca8e71e1aeda",
+          "keyword": "ans_1045299f-39c1-4d36-bc98-991401d2baea",
+          "answer": "__call_action__",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "be7fcea868c940c6197ce3fa34ed589e"
+        },
+        {
+          "ref": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "keyword": [
+            "AGENTE",
+            "Cliente",
+            "Asesor"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "0e0d4959472f558a67457900b165ce61"
+        },
+        {
+          "ref": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "keyword": "key_60c36b31-5a18-438f-8737-bbac9f7af6a3",
+          "answer": "Localidad?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "942ab05ad2dea80e83f8af1303934250"
+        },
+        {
+          "ref": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "keyword": "ans_b19cd3db-d01b-47d7-8e61-c4e6f1f5c138",
+          "answer": "Continuamos por telefono? En que horario puedo llamar?",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0a20818b472414338ab06380a7225ed4"
+        },
+        {
+          "ref": "ans_5f85459d-3b89-463b-95bd-d004641d5e64",
+          "keyword": "ans_dc4c5796-4fb2-4d5d-827c-ad3cbc93b940",
+          "answer": "Buenisimo, A la brevedad me estare comunicando con usted. Tambien puede enviarme a mi numero personal 11-4005-4474. Muchisimas Gracias. Quedo a sus ordenes",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": true,
+            "child": null,
+            "delay": 5000,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "3c3bb6df253c58fec42b5187054f26c6"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "fab9ebbb37138b15be4f1ca436cba2c8",
+    "from": "5493725479668"
+  },
+  {
+    "ref": "ans_9c29543e-7db3-45ce-89e1-14547d35cb70",
+    "keyword": "key_c2461d00-283e-4508-af07-84df5d11ad8f",
+    "answer": "👌 Te envio la info de Venta.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "30b7aff607b80f8affbd47d26cd01231",
+    "from": "5493725479668"
+  }
+]

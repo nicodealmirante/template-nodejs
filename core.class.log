@@ -1,0 +1,318 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491166414195@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB76775238DC56D01CD0CC3449007DD2',
+    participant: undefined
+  },
+  messageTimestamp: 1691519572,
+  pushName: 'Daniela',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491166414195'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491166414195@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB76775238DC56D01CD0CC3449007DD2',
+    participant: undefined
+  },
+  messageTimestamp: 1691519573,
+  pushName: 'Daniela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Quiero más información.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Quiero más información.',
+  from: '5491166414195'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491166414195@s.whatsapp.net',
+    fromMe: false,
+    id: '40678F4C9F2A73B76D93C93F3E6A071A',
+    participant: undefined
+  },
+  messageTimestamp: 1691519598,
+  pushName: 'Daniela',
+  broadcast: false,
+  message: Message {
+    conversation: '28/8  x la tarde a dominico foto cabina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '28/8  x la tarde a dominico foto cabina',
+  from: '5491166414195'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491140054474@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A69E5BCB0D849D32C9',
+    participant: undefined
+  },
+  messageTimestamp: 1691519681,
+  pushName: 'Nicolas 🤳 Selfie Mirror',
+  broadcast: false,
+  message: Message {
+    conversation: 'gf',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Selfie Mirror',
+  body: 'gf',
+  from: '5491140054474'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491140054474@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DA5DC2F9E300A74A1B',
+    participant: undefined
+  },
+  messageTimestamp: 1691519689,
+  pushName: 'Nicolas 🤳 Selfie Mirror',
+  broadcast: false,
+  message: Message {
+    conversation: 'nico',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Selfie Mirror',
+  body: 'nico',
+  from: '5491140054474'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491140054474@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB021666732AF29B917FD',
+    participant: undefined
+  },
+  messageTimestamp: 1691519698,
+  pushName: 'Nicolas 🤳 Selfie Mirror',
+  broadcast: false,
+  message: Message {
+    conversation: 'comprar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Selfie Mirror',
+  body: 'comprar',
+  from: '5491140054474'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491134592933@s.whatsapp.net',
+    fromMe: false,
+    id: 'CE1378496F90BF0CE479616723416825',
+    participant: undefined
+  },
+  messageTimestamp: 1691520329,
+  pushName: 'Romi',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491134592933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491134592933@s.whatsapp.net',
+    fromMe: false,
+    id: 'CE1378496F90BF0CE479616723416825',
+    participant: undefined
+  },
+  messageTimestamp: 1691520331,
+  pushName: 'Romi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Quiero más información.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Quiero más información.',
+  from: '5491134592933'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491122656713@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEE14519CE0A53B0646',
+    participant: undefined
+  },
+  messageTimestamp: 1691520680,
+  pushName: 'Alejandra',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491122656713'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493725479668@s.whatsapp.net',
+    fromMe: false,
+    id: '5CB3DA4089A3611AA1BE6D813E899974',
+    participant: undefined
+  },
+  messageTimestamp: 1691521033,
+  pushName: 'diegoju2000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Info',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Info',
+  from: '5493725479668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493725479668@s.whatsapp.net',
+    fromMe: false,
+    id: 'D882EAE40AF182D57BD12F9091A62BE1',
+    participant: undefined
+  },
+  messageTimestamp: 1691521042,
+  pushName: 'diegoju2000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Plataforma 360',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Plataforma 360',
+  from: '5493725479668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493725479668@s.whatsapp.net',
+    fromMe: false,
+    id: '2C582B70070552465375A5E83E288EF2',
+    participant: undefined
+  },
+  messageTimestamp: 1691521044,
+  pushName: 'diegoju2000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Diego',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Diego',
+  from: '5493725479668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493725479668@s.whatsapp.net',
+    fromMe: false,
+    id: '2AABA1F51EEA8737DEA1735F661B1482',
+    participant: undefined
+  },
+  messageTimestamp: 1691521060,
+  pushName: 'diegoju2000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Venta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Venta',
+  from: '5493725479668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493725479668@s.whatsapp.net',
+    fromMe: false,
+    id: '69E8CEA10C187429AB749DA90B67F825',
+    participant: undefined
+  },
+  messageTimestamp: 1691521064,
+  pushName: 'diegoju2000',
+  broadcast: false,
+  message: Message {
+    conversation: 'Diego',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Diego',
+  from: '5493725479668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517058925@s.whatsapp.net',
+    fromMe: false,
+    id: '7BB82FEFF2D1923A98B4E19D5614B73C',
+    participant: undefined
+  },
+  messageTimestamp: 1691521072,
+  pushName: 'Sil',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493517058925'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517058925@s.whatsapp.net',
+    fromMe: false,
+    id: '7BB82FEFF2D1923A98B4E19D5614B73C',
+    participant: undefined
+  },
+  messageTimestamp: 1691521073,
+  pushName: 'Sil',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¡Hola! Quiero más información.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¡Hola! Quiero más información.',
+  from: '5493517058925'
+}
